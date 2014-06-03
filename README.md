@@ -4,6 +4,7 @@ Librarie codeigniter database connection
 
 ## Databases Supported
 
+* Firebird/InterBase
 * MySql
 * MySqli
 * PostGre
